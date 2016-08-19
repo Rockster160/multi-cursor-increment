@@ -1,0 +1,22 @@
+{
+  "name": "multi-cursor-increment",
+  "main": "./lib/multi-cursor-increment",
+  "version": "0.0.0",
+  "description": "Package for adding numbers to multi-cursor selections and incrementing those numbers",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-text-editor": [
+      "multi-cursor-increment:tonum",
+      "multi-cursor-increment:increment",
+      "multi-cursor-increment:decrement"
+    ]
+  },
+  "repository": "https://github.com/atom/multi-cursor-increment",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

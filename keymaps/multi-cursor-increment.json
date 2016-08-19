@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-3": "multi-cursor-increment:tonum",
+    "ctrl-alt-=": "multi-cursor-increment:increment",
+    "ctrl-alt--": "multi-cursor-increment:decrement"
+  }
+}
