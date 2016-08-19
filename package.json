@@ -12,7 +12,7 @@
       "multi-cursor-increment:decrement"
     ]
   },
-  "repository": "https://github.com/atom/multi-cursor-increment",
+  "repository": "https://github.com/Rockster160/multi-cursor-increment",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
