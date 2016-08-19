@@ -1,7 +1,7 @@
 {
   "name": "multi-cursor-increment",
   "main": "./lib/multi-cursor-increment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Package for adding numbers to multi-cursor selections and incrementing those numbers",
   "keywords": [],
   "activationCommands": {
